@@ -57,6 +57,10 @@ header {
 
 h1 {
   margin-bottom: 24px;
+  font-size: 44px;
+  /* 44 / 52 / 62 from scale */
+  line-height: 1.1;
+  letter-spacing: -1px;
 }
 
 .header-text {
